@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.jeuxvideo.com	TRUE	/	FALSE	1999999999	__cf_bm	5bVPKDwSK9rkxCHN4v7kodAXwa69u7YUKvW6KnIoRr0-1684404634-0-Ad+/6zAVh8LRjecUCE+icZkIDeVbHBNzpT55+lpPd5TquZZKqybXISo3LP5oI0KtN4lbVEixjbDcZGqtpOoa5f6AgtQaCwIgfF26q2om5jUi
+image.jeuxvideo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
